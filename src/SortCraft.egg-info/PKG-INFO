@@ -1,6 +1,6 @@
 Metadata-Version: 2.4
 Name: SortCraft
-Version: 0.1.4
+Version: 0.1.5
 Summary: A collection of classic and practical sorting algorithms
 Author-email: Arijit Kumar Roy <arijitkroy16@gmail.com>
 License: MIT License
@@ -40,8 +40,12 @@ License-File: LICENSE
 Dynamic: license-file
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/arijitkroy/sortcraft/main/softcraft.png" alt="sortcraft logo" width="480">
+    <img src="https://github.com/arijitkroy/sortcraft/blob/main/sortcraft.png?raw=true" alt="sortcraft logo" width="480">
 </p>
+
+[![PyPI - version](https://badge.fury.io/py/SortCraft.svg?icon=si%3Apython)](https://badge.fury.io/py/SortCraft)
+![PyPI - License](https://img.shields.io/pypi/l/sortcraft)
+
 
 SortCraft is a comprehensive Python package providing an extensive collection of sorting algorithms suitable for educational, research, and benchmarking purposes. All implementations are type-annotated, documented for clarity, and exposed through a clean flat API for easy import and exploration.
 
