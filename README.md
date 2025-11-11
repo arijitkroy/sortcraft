@@ -2,8 +2,8 @@
     <img src="https://github.com/arijitkroy/sortcraft/blob/main/sortcraft.png?raw=true" alt="sortcraft logo" width="480">
 </p>
 
-[![PyPI - version](https://badge.fury.io/py/SortCraft.svg?icon=si%3Apython)](https://badge.fury.io/py/SortCraft)
-![PyPI - License](https://img.shields.io/pypi/l/sortcraft)
+[![PyPI - version](https://badge.fury.io/py/SortCraft.svg?icon=si%3Apython&style=for-the-badge)](https://badge.fury.io/py/SortCraft)
+![PyPI - License](https://img.shields.io/pypi/l/sortcraft?style=for-the-badge)
 
 
 SortCraft is a comprehensive Python package providing an extensive collection of sorting algorithms suitable for educational, research, and benchmarking purposes. All implementations are type-annotated, documented for clarity, and exposed through a clean flat API for easy import and exploration.
