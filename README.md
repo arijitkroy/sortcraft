@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/arijitkroy/sortcraft/main/softcraft.png" alt="sortcraft logo" width="480">
+    <img src="https://github.com/arijitkroy/sortcraft/blob/main/sortcraft.png?raw=true" alt="sortcraft logo" width="480">
 </p>
 
 SortCraft is a comprehensive Python package providing an extensive collection of sorting algorithms suitable for educational, research, and benchmarking purposes. All implementations are type-annotated, documented for clarity, and exposed through a clean flat API for easy import and exploration.
