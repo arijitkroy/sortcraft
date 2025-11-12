@@ -45,7 +45,7 @@ Dynamic: license-file
 
 ![PyPI - Version](https://img.shields.io/pypi/v/sortcraft?label=Version)
 ![PyPI - Downloads](https://img.shields.io/pypi/dw/sortcraft?label=Downloads)
-![PyPI - License](https://img.shields.io/pypi/l/sortcraft)
+![PyPI - License](https://img.shields.io/pypi/l/sortcraftlabel=License)
 
 SortCraft is a comprehensive Python package providing an extensive collection of sorting algorithms suitable for educational, research, and benchmarking purposes. All implementations are type-annotated, documented for clarity, and exposed through a clean flat API for easy import and exploration.
 
