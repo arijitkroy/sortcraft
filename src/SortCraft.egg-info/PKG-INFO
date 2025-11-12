@@ -1,6 +1,6 @@
 Metadata-Version: 2.4
 Name: SortCraft
-Version: 0.1.5
+Version: 0.1.6
 Summary: A collection of classic and practical sorting algorithms
 Author-email: Arijit Kumar Roy <arijitkroy16@gmail.com>
 License: MIT License
@@ -43,9 +43,9 @@ Dynamic: license-file
     <img src="https://github.com/arijitkroy/sortcraft/blob/main/sortcraft.png?raw=true" alt="sortcraft logo" width="480">
 </p>
 
-[![PyPI - version](https://badge.fury.io/py/SortCraft.svg?icon=si%3Apython)](https://badge.fury.io/py/SortCraft)
+![PyPI - Version](https://img.shields.io/pypi/v/sortcraft?label=Version)
+![PyPI - Downloads](https://img.shields.io/pypi/dw/sortcraft?label=Downloads)
 ![PyPI - License](https://img.shields.io/pypi/l/sortcraft)
-
 
 SortCraft is a comprehensive Python package providing an extensive collection of sorting algorithms suitable for educational, research, and benchmarking purposes. All implementations are type-annotated, documented for clarity, and exposed through a clean flat API for easy import and exploration.
 
@@ -61,11 +61,7 @@ Installation
 Install the latest release from PyPI:
 
     pip install sortcraft
-
-Or, for the latest development version:
-
-    pip install git+https://github.com/arijitkroy/sortcraft
-
+    
 Quick Usage
 -----------
 
@@ -88,6 +84,13 @@ Type Annotations and Docstring Standards
 - All user-facing APIs are type-annotated (PEP 484/561 compliant via the included py.typed marker).
 - Docstrings follow the Google style, suitable for Sphinx autodoc and IDE hover documentation.
 - Each algorithm documents its stability, complexity, and typical usage.
+
+Version Logs:
+------------
+- `0.1.3`: Added 22 different types of sorting algorithms
+- `0.1.4`: Modified logo for the package
+- `0.1.5`: Added badges in README.md
+- `0.1.6`: Added error handling in every algorithms
 
 License
 -------
