@@ -44,7 +44,7 @@ Type Annotations and Docstring Standards
 - Docstrings follow the Google style, suitable for Sphinx autodoc and IDE hover documentation.
 - Each algorithm documents its stability, complexity, and typical usage.
 
-Version Logs:
+Version Logs
 ------------
 - `0.1.3`: Added 22 different types of sorting algorithms
 - `0.1.4`: Modified logo for the package
