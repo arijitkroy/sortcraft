@@ -8,6 +8,10 @@ src/SortCraft.egg-info/top_level.txt
 src/sortcraft/__init__.py
 src/sortcraft/py.typed
 src/sortcraft/utils.py
+src/sortcraft.egg-info/PKG-INFO
+src/sortcraft.egg-info/SOURCES.txt
+src/sortcraft.egg-info/dependency_links.txt
+src/sortcraft.egg-info/top_level.txt
 src/sortcraft/algorithms/bitonic.py
 src/sortcraft/algorithms/bogo.py
 src/sortcraft/algorithms/bubble.py
@@ -21,6 +25,7 @@ src/sortcraft/algorithms/gnome.py
 src/sortcraft/algorithms/heap.py
 src/sortcraft/algorithms/insertion.py
 src/sortcraft/algorithms/merge.py
+src/sortcraft/algorithms/nodes.py
 src/sortcraft/algorithms/odd_even.py
 src/sortcraft/algorithms/pancake.py
 src/sortcraft/algorithms/pigeonhole.py
@@ -30,4 +35,4 @@ src/sortcraft/algorithms/selection.py
 src/sortcraft/algorithms/shell.py
 src/sortcraft/algorithms/stooge.py
 src/sortcraft/algorithms/timsort.py
-tests/test_merge.py
+tests/test_countingsort.py

@@ -46,10 +46,11 @@ Type Annotations and Docstring Standards
 
 Version Logs
 ------------
-- `0.1.3`: Added 22 different types of sorting algorithms
-- `0.1.4`: Modified logo for the package
-- `0.1.5`: Added badges in README.md
+- `1.0.0`: Added support for singly, doubly and circular linked lists
 - `0.1.7`: Added error handling in every algorithms
+- `0.1.5`: Added badges in README.md
+- `0.1.4`: Modified logo for the package
+- `0.1.3`: Added 22 different types of sorting algorithms
 
 License
 -------

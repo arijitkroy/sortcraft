@@ -1,6 +1,6 @@
 Metadata-Version: 2.4
-Name: SortCraft
-Version: 0.1.7
+Name: sortcraft
+Version: 1.0.0
 Summary: A collection of classic and practical sorting algorithms
 Author-email: Arijit Kumar Roy <arijitkroy16@gmail.com>
 License: MIT License
@@ -34,7 +34,7 @@ Classifier: License :: OSI Approved :: MIT License
 Classifier: Intended Audience :: Developers
 Classifier: Topic :: Software Development :: Libraries
 Classifier: Typing :: Typed
-Requires-Python: >=3.4
+Requires-Python: >=3.8
 Description-Content-Type: text/markdown
 License-File: LICENSE
 Dynamic: license-file
@@ -85,12 +85,13 @@ Type Annotations and Docstring Standards
 - Docstrings follow the Google style, suitable for Sphinx autodoc and IDE hover documentation.
 - Each algorithm documents its stability, complexity, and typical usage.
 
-Version Logs:
+Version Logs
 ------------
-- `0.1.3`: Added 22 different types of sorting algorithms
-- `0.1.4`: Modified logo for the package
-- `0.1.5`: Added badges in README.md
+- `1.0.0`: Added support for singly, doubly and circular linked lists
 - `0.1.7`: Added error handling in every algorithms
+- `0.1.5`: Added badges in README.md
+- `0.1.4`: Modified logo for the package
+- `0.1.3`: Added 22 different types of sorting algorithms
 
 License
 -------
